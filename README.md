@@ -5,6 +5,7 @@ This repository contains all the tasks completed during the internship period. E
 Tasks Overview-->
 
 Task 1: Personal Portfolio (DEMO)
+
 Objective: Create a personal portfolio using HTML and CSS.
 
 Description: This task aimed to introduce the basics of HTML structure and CSS styling. A personal portfolio showcases your skills, projects, and experiences. It involves creating a responsive layout, styling with CSS for visual appeal, and ensuring the website is accessible and user-friendly across devices.
